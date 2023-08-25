@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "test-lwc",
+  "name": "lwc-spclst-mainBadge",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
