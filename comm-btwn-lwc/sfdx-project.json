@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "comm-btwn-lwc",
+  "name": "Event Comms",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
