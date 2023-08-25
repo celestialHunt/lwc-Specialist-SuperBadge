@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Event Comms",
+  "name": "lwc-tests",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "58.0"
